@@ -1,0 +1,1 @@
+# Simple test for an create simple app using React for study tests with Jest and Enzyme
